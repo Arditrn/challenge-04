@@ -1,0 +1,21 @@
+
+.bghalaman{
+    width: 100%;
+    height: 100vh;
+}
+.bgcolor{
+    width: 100%;
+    background: #F1F3FF;
+    padding-top: 80px;
+    padding-left: 65px;
+}
+.text-item{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.img_car{
+    width: 100%;
+   
+}
+
